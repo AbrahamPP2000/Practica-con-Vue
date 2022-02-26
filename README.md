@@ -23,8 +23,8 @@ npm run build
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-
-Cabe destacar que no acostumbro mucho a trabajar con Frameworks y la verdad me ha costado un poco entender cómo funciona Vue. Aún así, pude pude aplicar algunas bases.
+----------------------------------------------------------------------------------------------------------------------
+Cabe destacar que no acostumbro mucho a trabajar con Frameworks y la verdad me ha costado un poco entender cómo funciona Vue. Aún así, pude aplicar algunas bases.
 Así se ve mi aplicación:
 
 ![image](https://user-images.githubusercontent.com/97979648/155820996-3c22e8ed-e2bc-4dbd-b7d3-eeebd38fd528.png)
